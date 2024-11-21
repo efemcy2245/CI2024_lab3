@@ -9,7 +9,7 @@ In script there are the lines comment that describe the macro-behaviour of my im
 The results are summarize in the following table.
 
 | N  | Breadth-First |  A* - k(x) | A* - g(x)  | 
-|----------|----------|----------|----------|----------|
+|----------|----------|----------|----------|
 | 2 | (step - #states) (3, 5) | (step - #states) (1, 1) | (step - #states) (5, 12) |
 | 3 | (step - #states) (27, 172110) | (step - #states) (31, 3704) | (step - #states) (41, 85738) |
 | 4 |  | | |
